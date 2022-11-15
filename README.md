@@ -1,4 +1,4 @@
-Notice in launchSettings.json that ASPNETCORE_ENVIRONMENT is "Foo"
+Notice in BlazorAppEnvText/Server/Properties/launchSettings.json that ASPNETCORE_ENVIRONMENT is "Foo".
 
 `dotnet run --verbose --project BlazorAppEnvText/Server` to watch it fail
 
