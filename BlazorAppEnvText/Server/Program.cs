@@ -7,6 +7,7 @@ builder.Services.AddRazorPages();
 
 var app = builder.Build();
 
+app.UseDeveloperExceptionPage();
 app.UseBlazorFrameworkFiles();
 app.UseStaticFiles();
 
